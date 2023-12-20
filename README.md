@@ -1,7 +1,7 @@
 Template
 ==============================
 
-Template for data science file organization based off cookiecutter model
+Template for data science file organization based off cookiecutter model.
 
 Project Organization
 ------------
